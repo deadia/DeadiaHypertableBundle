@@ -21,10 +21,10 @@
 #
 
 ;
-require_once THRIFT_PATH.'/Thrift.php';
-require_once THRIFT_PATH.'/protocol/TBinaryProtocol.php';
-require_once THRIFT_PATH.'/transport/TSocket.php';
-require_once THRIFT_PATH.'/transport/TFramedTransport.php';
+require_once __DIR__.'/Thrift.php';
+require_once __DIR__.'/protocol/TBinaryProtocol.php';
+require_once __DIR__.'/transport/TSocket.php';
+require_once __DIR__.'/transport/TFramedTransport.php';
 
 /**
  * Suppress errors in here, which happen because we have not installed into
