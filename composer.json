@@ -1,0 +1,38 @@
+{
+    "name": "deadia/hypertable-bundle",
+    "type": "symfony-bundle",
+    "description": "",
+    "keywords": ["hypertable"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Marc PEPIN",
+            "email": "m.pepin@deadia.fr"
+        }
+    ],
+
+    "require": {
+        "php":                            ">=5.3.2",
+    },
+
+    "require-dev": {
+    },
+    
+    "conflict": {
+    },
+
+    "suggest": {
+    },
+
+    "autoload": {
+        "psr-0": { "Deadia\\HypertableBundle": "" }
+    },
+
+    "target-dir": "Deadia/HypertableBundle",
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.11.x-dev"
+        }
+    }
+}
