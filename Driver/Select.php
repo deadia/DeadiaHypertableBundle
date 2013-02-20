@@ -5,7 +5,7 @@
 *
 */
 
-namespace Deadia\Driver;
+namespace Deadia\HypertableBundle\Driver;
 
 /**
 * Hypertable Select Driver
