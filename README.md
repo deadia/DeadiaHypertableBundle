@@ -1,0 +1,4 @@
+DeadiaHypertableBundle
+======================
+
+Hypertable Bundle Symfony
