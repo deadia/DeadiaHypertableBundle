@@ -1,8 +1,6 @@
 <?php
 
-
-
-namespace Deadia\Driver;
+namespace Deadia\HypertableBundle\Driver;
 
 /*
 use Symfony\Component\Yaml\Parser;
