@@ -1,6 +1,6 @@
 <?php
 
-namespace Deadia\Driver;
+namespace Deadia\HypertableBundle\Driver;
 
 /**
 * Hypertable Driver Insert 
