@@ -3,7 +3,7 @@
 namespace Deadia\HypertableBundle\Driver;
 use Symfony\Component\Yaml\Parser;
 
-require_once(THRIFT_PATH.'/ThriftClient.php');
+require_once(__DIR__.'/ThriftClient.php');
 
 /**
 * Hypertable Base class
